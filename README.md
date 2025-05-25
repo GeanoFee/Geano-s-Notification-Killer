@@ -1,4 +1,11 @@
 # Geano's Notification Killer </br>
 System agnostic module for FoundryVTT. </br>
 Supresses UI-Notifications for all players, but not for the GM. </br> </br>
-Manifest URL: https://github.com/GeanoFee/Geano-s-Notification-Killer/geanos-notification-killer/module.json
+
+## 🚀 Installation
+
+1. Download the latest release from the [Releases](../../releases) page
+2. Extract the ZIP file to your `FoundryVTT/Data/modules/` directory
+3. Restart FoundryVTT
+4. Enable the module in your world's module settings
+
