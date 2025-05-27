@@ -1,6 +1,6 @@
 # Geano's Notification Killer
 
-System-agnosti, lightweight FoundryVTT module that enhances player immersion by suppressing UI notifications for non-GM users.
+System-agnostic, lightweight FoundryVTT module that enhances player immersion by suppressing UI notifications for non-GM users.
 
 ## 🎯 Purpose
 
